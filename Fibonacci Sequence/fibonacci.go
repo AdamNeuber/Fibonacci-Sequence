@@ -9,6 +9,7 @@ func fib() {
 		var value1 int = 1
 	*/
 	fmt.Println(value1)
+	fmt.Println(value2)
 	for i < 10 {
 		value1 = value1 + value2
 		fmt.Println(value1)
